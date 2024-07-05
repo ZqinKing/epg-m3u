@@ -43,5 +43,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUclW6AUI%2FSIO%2Bs%2F9KaqCfRAwoDIwMxbrlyyVy9x6ZDKnvfae09h%2Fzg38THB%2B%2FvaO%2BqCb7fDXq%2F%2BRzM2c4SN6TJM
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=LeeLm7fxHHFwZahyMzl5ogiSnfzPlncDU3c0s0oCKsWsEZySe%2Bkut33UVqIiB65CfM7MDQ1hYUcQovfIFJ9Z6Q%3D%3D
-#EXTINF:-1 tvg-id="F1" tvg-name="F1五星高清",F1 五星高清
+#EXTINF:-1 tvg-id="F10" tvg-name="F1五星高清",F1 五星高清
 https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
+#EXTINF:-1 tvg-id="F11" tvg-name="F1马莎一台",F1 马莎一台
+https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
