@@ -1,49 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+http://218.93.208.172:35455/migu/608807420.m3u8?migutoken=c1e47192e21ebd32f0cc762a6749923a27468f3c407786209ce921f54a3faab96bf61281f3baee22f2ea266b1ec7e46d7bdfab0916f461bf38474fe38d0bdb2dcc56ee56853b8d6c509d866d80
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV2.png" group-title="央视高清",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://218.93.208.172:35455/migu/631780532.m3u8?migutoken=f37996961dda807c76bd64f9a2747f07f7fd95917e411e96a40281fd628bc4000eb7f71344d3bca848bfba138c3988d53652cdbc6fc8225515f1c0e1ea6c8920e7d1e957628a334e765280cc07
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://218.93.208.172:35455/migu/624878271.m3u8?migutoken=fc4d3188808753792a59fb9fb632ad0e1d099d6828db8758f8c977a28dc480e969bef66e8cd942d53ce07a039791c90b959a0f75df560f5966e3f5ed7c8cf5bbb0fac0f4394f21d52636ca79cb
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://218.93.208.172:35455/migu/631780421.m3u8?migutoken=c7f507bbd9cce24c2acdc93defad48a900f168c4ca906d6038ab0f6139f63ebe0ddaadfce8581b4e0014595c5d9de27f08f2398874e7990b2f98bca8c5e37775005a38dfdd40f4ea9bbfa10d23
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://218.93.208.172:35455/migu/641886683.m3u8?migutoken=87d52e3d24e7d2e911e3dfd7ea18495fc128afee9e8b63e2945bdf50bb2105992d65245e2b914f41bb1b7218c76012d8e20573dfc0ca6ff336e3ba39c0a26c95030a5f99b9264b0583d92caea8
 #EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV6.png" group-title="央视高清",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv6
 #EXTINF:-1 tvg-id="A08" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv7
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv8
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV9.png" group-title="央视高清",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv9
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV10.png" group-title="央视高清",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv10
 #EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV11.png" group-title="央视高清",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv11
 #EXTINF:-1 tvg-id="A13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv12
 #EXTINF:-1 tvg-id="A14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV13.png" group-title="央视高清",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="A15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV14.png" group-title="央视高清",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv14
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV15.png" group-title="央视高清",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 tvg-id="A17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Beijing.png" group-title="卫视高清",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="B24" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Tianjin.png" group-title="卫视高清",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Zhejiang.png" group-title="卫视高清",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-id="F10" tvg-name="F1五星高清",F1 五星高清
-https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
-#EXTINF:-1 tvg-id="F11" tvg-name="F1马莎一台",F1 马莎一台
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-id="F10" tvg-name="F1",F1
 http://agent.wanwanju.top/channel1.m3u8
