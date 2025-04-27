@@ -40,7 +40,7 @@ http://1.24.190.122:1080/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="B24" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Tianjin.png" group-title="卫视高清",天津卫视
 http://119.187.121.180:8091/PLTV/88888888/224/3221225880/10000100000000060000000000215743_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Zhejiang.png" group-title="卫视高清",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
 http://47.122.125.40:6666/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-name="F1",F1
