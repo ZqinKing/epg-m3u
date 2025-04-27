@@ -18,7 +18,7 @@ http://1.24.190.122:1080/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
 http://1.24.190.122:1080/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV9.png" group-title="央视高清",CCTV-9 纪录
-http://1.24.190.122:1080/hls/9/index.m3u8
+http://111.36.108.181:3333/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV10.png" group-title="央视高清",CCTV-10 科教
 http://1.24.190.122:1080/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV11.png" group-title="央视高清",CCTV-11 戏曲
@@ -26,7 +26,7 @@ http://1.24.190.122:1080/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="A13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
 http://1.24.190.122:1080/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="A14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV13.png" group-title="央视高清",CCTV-13 新闻
-http://adposter.tv/mym8tv.php?url=http://111.36.108.181:3333/hls/13/index.m3u8
+http://111.36.108.181:3333/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV14.png" group-title="央视高清",CCTV-14 少儿
 http://1.24.190.122:1080/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV15.png" group-title="央视高清",CCTV-15 音乐
