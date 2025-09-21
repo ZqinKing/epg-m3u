@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://113.119.194.0:5000/gaoma/cctv1.m3u8
+http://171.43.65.218:85/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV2.png" group-title="央视高清",CCTV-2 财经
-http://1.24.190.122:1080/hls/2/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://1.24.190.122:1080/hls/3/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
-http://1.24.190.122:1080/hls/4/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://1.24.190.122:1080/hls/5/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
-http://1.24.190.122:1080/hls/16/index.m3u8
+http://171.213.207.125:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV6.png" group-title="央视高清",CCTV-6 电影
-http://1.24.190.122:1080/hls/6/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/index.m3u8
 #EXTINF:-1 tvg-id="A08" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
-http://1.24.190.122:1080/hls/7/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
-http://1.24.190.122:1080/hls/8/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV9.png" group-title="央视高清",CCTV-9 纪录
-http://111.36.108.181:3333/hls/9/index.m3u8
+http://118.250.138.128:10888/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV10.png" group-title="央视高清",CCTV-10 科教
-http://1.24.190.122:1080/hls/10/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/index.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV11.png" group-title="央视高清",CCTV-11 戏曲
-http://1.24.190.122:1080/hls/11/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/index.m3u8
 #EXTINF:-1 tvg-id="A13" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
-http://1.24.190.122:1080/hls/12/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/index.m3u8
 #EXTINF:-1 tvg-id="A14" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV13.png" group-title="央视高清",CCTV-13 新闻
-http://111.36.108.181:3333/hls/13/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/index.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV14.png" group-title="央视高清",CCTV-14 少儿
-http://1.24.190.122:1080/hls/14/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV15.png" group-title="央视高清",CCTV-15 音乐
-http://47.122.125.40:6666/hls/cctv15hd.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-id="A17" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
-http://47.122.125.40:6666/hls/cctv16hd.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
-http://47.122.125.40:6666/hls/cctv17hd.m3u8
+http://www.dsk.cc/php/bfgd.php?id=cctv17&m.m3u8
 #EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Beijing.png" group-title="卫视高清",北京卫视
-http://1.24.190.122:1080/hls/68/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/index.m3u8
 #EXTINF:-1 tvg-id="B24" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Tianjin.png" group-title="卫视高清",天津卫视
-http://119.187.121.180:8091/PLTV/88888888/224/3221225880/10000100000000060000000000215743_0.smil/01.m3u8?fmt=ts2hls,0,01.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Zhejiang.png" group-title="卫视高清",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
-http://47.122.125.40:6666/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="F10" tvg-name="F1",F1
-http://agent.wanwanju.top/channel1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="F10" tvg-name="五星体育",五星体育
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
